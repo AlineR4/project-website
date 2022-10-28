@@ -14,3 +14,14 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.467);
 }
+h1 {
+    color: darkblue;
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+h2 {
+    color: darkblue;
+}
+img.lado {
+    float: right;
+}
